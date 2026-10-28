@@ -1,6 +1,6 @@
 cask "pr-status-bar" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0"
+  sha256 "2bd041cc62b665569ea3d7ff684fcf4de4e22aff1b7f16e55d093efea937bd30"
 
   url "https://github.com/JordanChazottes/pr-status-bar/releases/download/v#{version}/PRStatusBar-#{version}.zip"
   name "PR Status Bar"
